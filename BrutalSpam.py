@@ -19,6 +19,7 @@ def baner():
 \t------------
 \nCreator: XONXPLOIT
 Youtube: Newbie SecurityXploit
+Github: https://github.com/XONXPLOIT/
 ==========================================''')
 def kata(s):
     for c in s + "\n":
