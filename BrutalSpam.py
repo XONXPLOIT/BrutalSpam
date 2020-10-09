@@ -17,7 +17,7 @@ def baner():
 ╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘╚═╝┴  ┴ ┴┴ ┴┴ ┴└─┘┴└─
 
 \t------------
-\nCreator: Faqih ID
+\nCreator: XONXPLOIT
 Youtube: Newbie SecurityXploit
 ==========================================''')
 def kata(s):
