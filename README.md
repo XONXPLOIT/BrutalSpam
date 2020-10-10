@@ -1,19 +1,19 @@
 # BrutalSpam
 
 # Installasi
- pkg update
+$ pkg update
 
- pkg upgrade
+$ pkg upgrade
 
- pkg install git
+$ pkg install git
 
- pkg install python
+$ pkg install python
 
- git clone https://github.com/XONXPLOIT/BrutalSpam.git
+$ git clone https://github.com/XONXPLOIT/BrutalSpam.git
 
- cd BrutalSpam
+$ cd BrutalSpam
 
- python BrutalSpam.py
+$ python BrutalSpam.py
 
 # Usage
  masukan nomor contoh: 08**********
